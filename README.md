@@ -1,2 +1,2 @@
-# foodpedia_card
+# React_First_Comp
 Created with CodeSandbox
